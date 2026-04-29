@@ -1,76 +1,17 @@
 # ═══════════════════════════════════════════════════════════════
 # 小民AI实战笔记
-# 只推送AI相关热点
+# 只推送我关注的AI热点
 # ═══════════════════════════════════════════════════════════════
 
-[GLOBAL_FILTER]
-!广告
-!营销
-!推广
-!商城
-!红包
-!美女
-!明星
-!八卦
-!娱乐
-!体育
-!足球
-!篮球
+[AI模型]
+OpenAI
+ChatGPT
+Claude
+DeepSeek
+通义千问
 
-[WORD_GROUPS]
-
-[🔴 头条潜力 - 大模型/巨头动态]
-/OpenAI/i => OpenAI
-/ChatGPT/i => ChatGPT
-/GPT-4o/i => GPT-4o
-/GPT-5/i => GPT-5
-/Sora/i => Sora
-/Anthropic/i => Anthropic
-/Claude/i => Claude
-/谷歌/i => 谷歌
-/Gemini/i => Gemini
-/DeepMind/i => DeepMind
-/微软/i => 微软
-/Copilot/i => Copilot
-/Meta/i => Meta
-/Llama/i => Llama
-/马斯克/i => 马斯克
-/xAI/i => xAI
-/Grok/i => Grok
-
-[🟠 国产模型 - 你读者最爱看]
-/DeepSeek/i => DeepSeek
-/通义/i => 通义
-/Qwen/i => Qwen
-/文心/i => 文心
-/百度/i => 百度
-/豆包/i => 豆包
-/字节/i => 字节
-/Kimi/i => Kimi
-/智谱/i => 智谱
-/GLM/i => GLM
-
-[🟡 热点概念 - 爆款选题素材]
-/大模型/i => 大模型
-/LLM/i => LLM
-/Agent/i => Agent
-/AI Agent/i => AI Agent
-/MCP/i => MCP
-/RAG/i => RAG
-/AIGC/i => AIGC
-
-[🟢 工具应用 - 可以写实操教程]
-/Dify/i => Dify
-/LangChain/i => LangChain
-/Coze/i => Coze
-/扣子/i => 扣子
-/千帆/i => 千帆
-/模型花园/i => 模型花园
-/Ollama/i => Ollama
-/vLLM/i => vLLM
-/ComfyUI/i => ComfyUI
-/Stable Diffusion/i => SD
-/Midjourney/i => MJ
-/Runway/i => Runway
-/可灵/i => 可灵
-/即梦/i => 即梦
+[应用工具]
+Dify
+LangChain
+Coze
+Ollama

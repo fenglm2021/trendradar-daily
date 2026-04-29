@@ -409,6 +409,16 @@ custom:
       push: true
 
   periods:
+    test:
+      name: "测试推送"
+      start: "00:00"
+      end: "23:59"
+      push: true
+      analyze: true
+      report_mode: "current"
+      once:
+        analyze: false
+        push: false
     morning:
       name: "早间推送"
       start: "06:00"

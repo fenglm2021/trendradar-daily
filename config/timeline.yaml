@@ -411,7 +411,7 @@ custom:
   periods:
     morning:
       name: "早间推送"
-      start: "07:24"
+      start: "07:28"
       end: "07:50"
       push: true
       report_mode: "daily"
